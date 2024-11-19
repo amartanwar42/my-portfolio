@@ -1,135 +1,305 @@
 {
-  "main": {
-    "name": "Jhon Doe",
-    "shortDesc": "I focus on developing user-friendly web applications that meet the client's requirements, with attention to detail, scalability, and performance.",
-    "titles": [
-      "Frontend Development",
-      "Backend Development",
-      "App Development"
-    ],
-    "heroImage": "https://img.freepik.com/free-psd/3d-illustration-person-with-sunglasses_23-2149436188.jpg",
-    "techStackImages": [
-      "https://img.icons8.com/color/144/000000/material-ui.png",
-      "https://img.icons8.com/color/144/000000/html-5--v1.png",
-      "https://img.icons8.com/color/144/000000/redux.png",
-      "https://img.icons8.com/color/144/000000/chakra-ui.png"
-    ]
-  },
-  "about": {
-    "aboutImage": "https://img.freepik.com/free-psd/3d-illustration-person-with-sunglasses_23-2149436188.jpg",
-    "aboutImageCaption": "< I build stuff 🚀/>",
-    "title": "Full Stack Developer",
-    "about": "I am a Full-Stack developer based in Pune, India. I'm an Information Technology undergraduate from SPPU, and my journey in web development began during my first year of college. I'm passionate about creating beautiful, functional, and user-friendly websites and applications, and I'm constantly pushing myself to learn and grow as a developer. Love building full-stack clones and side projects.",
-    "callUrl": "",
-    "resumeUrl": ""
-  },
-  "socials": [
-    {
-      "icon": "FaLinkedin",
-      "link": "https://www.linkedin.com/in/jhon-doe"
-    },
-    {
-      "icon": "FaGithub",
-      "link": "https://github.com/jhon-doe"
-    },
-    {
-      "icon": "FaInstagram",
-      "link": "https://www.instagram.com/jhondoe"
-    },
-    {
-      "icon": "FaTwitter",
-      "link": "https://twitter.com/jhondoe"
-    }
-  ],
-  "skills": [
-    {
-      "name": "JavaScript",
-      "image": "https://img.icons8.com/color/144/null/javascript--v1.png",
-      "category": "Frontend"
-    },
-    {
-      "name": "Firebase",
-      "image": "https://img.icons8.com/color/144/null/firebase.png",
-      "category": "Backend"
-    },
-    {
-      "name": "GitHub",
-      "image": "https://img.icons8.com/material-outlined/96/null/github.png",
-      "category": "Tools"
-    }
-  ],
-  "projects": [
-    {
-      "name": "Project Title",
-      "techstack": "HTML5, CSS3, JavaScript, jQuery",
-      "category": "MERN Stack",
-      "image": "https://media.geeksforgeeks.org/wp-content/cdn-uploads/20210114225740/10-Best-Web-Development-Project-Ideas-For-Beginners-in-2021.png",
-      "links": {
-        "code": "",
-        "video": "",
-        "visit": ""
-      }
-    },
-    {
-      "name": "Project Title",
-      "techstack": "Flutter, Dart, Firebase",
-      "category": "Flutter",
-      "image": "https://media.geeksforgeeks.org/wp-content/cdn-uploads/20210114225740/10-Best-Web-Development-Project-Ideas-For-Beginners-in-2021.png",
-      "links": {
-        "code": "",
-        "video": "",
-        "visit": ""
-      }
-    },
-    {
-      "name": "Project Title",
-      "techstack": "PHP, MySQL, HTML5, CSS3, Bootstrap, JavaScript",
-      "category": "LAMP Stack",
-      "image": "https://media.geeksforgeeks.org/wp-content/cdn-uploads/20210114225740/10-Best-Web-Development-Project-Ideas-For-Beginners-in-2021.png",
-      "links": {
-        "code": "",
-        "video": "",
-        "visit": ""
-      }
-    }
-  ],
-  "educations": [
-    {
-      "institute": "XYZ School | CBSE",
-      "degree": "HSC Science",
-      "duration": "2014 - 2016"
-    },
-    {
-      "institute": "XYZ College Of Engineering",
-      "degree": "B.Tech CSE",
-      "duration": "2016 - 2020",
-      "desc": [
-        "Pursuing IT Engineering course from ABC University",
-        "Worked on web application development using HTML, CSS, and JavaScript, designing a database system using SQL",
-        "Familiar with software development methodologies and project management practices, including Agile and Waterfall methodologies."
-      ]
-    }
-  ],
-  "experiences": [
-    {
-      "company": "ABC Tech Solutions",
-      "position": "Web Developer",
-      "duration": "2020 -2022",
-      "desc": [
-        "Assisted with design and development of project.",
-        "Worked on building the product from scratch and built multiple dashboards.",
-        "Skills: HTML · CSS · JavaScript · TailwindCSS · ReactJS · NodeJS · MySQL · REST APIs"
-      ]
-    },
-    {
-      "company": "XYZ Tech Solutions",
-      "position": "Web Developer",
-      "duration": "2022 - present",
-      "desc": [
-        "Assisted with design and development of project.",
-        "Worked on building the product from scratch and built multiple dashboards.",
-        "Skills: HTML · CSS · JavaScript · TailwindCSS · ReactJS · NodeJS · MySQL · REST APIs"
-      ]
-    }
-  ]
+	"main": {
+		"name": "Amar Singh",
+		"shortDesc": "With 9+ years of experience, I specialize in ensuring product stability through rigorous testing across Mobile, Web2, Web3, APIs, and performance testing. As a lead QA engineer with 7 years in startups, I’ve built automation frameworks and QA processes from scratch, driving quality and best practices across teams.",
+		"titles": [
+			"Mobile Testing & Automation",
+			"Web Testing & Automation",
+			"Performace Testing & Automation",
+			"Backend/API Testing & Automation",
+			"Manual Testing & QA & Test Management",
+			"CI-CD"
+		],
+		"heroImage": "https://img.freepik.com/free-psd/3d-illustration-person-with-sunglasses_23-2149436188.jpg",
+		"techStackImages": [
+			"https://img.icons8.com/color/144/000000/typescript.png",
+			"https://img.icons8.com/?size=100&id=VOnRj9vGpXV8&format=png&color=000000",
+			"https://img.icons8.com/?size=100&id=QEQQKirln6Tf&format=png&color=000000",
+			"https://img.icons8.com/?size=100&id=6jRqeI5XPOHI&format=png&color=000000"
+		]
+	},
+	"about": {
+		"aboutImage": "https://img.freepik.com/free-psd/3d-illustration-person-with-sunglasses_23-2149436188.jpg",
+		"aboutImageCaption": "I test and automate stuff 🚀",
+		"titles": ["Full Stack QA", "Lead SDET", "Automation Engineer"],
+		"about": "Over the past 9+ years, I have dedicated myself to elevating product stability and reliability through rigorous testing practices. My expertise spans automated and manual testing across diverse platforms, including Mobile, Web2, Web3 applications, API services, and performance testing to ensure robust application behavior under various load conditions.\n With 7 years of hands-on experience in startup environments, I have thrived as a lead QA engineer, establishing automation frameworks and comprehensive QA processes from the ground up. Beyond technical contributions, I am committed to fostering a culture of quality within teams, championing best practices, and instilling quality assurance excellence throughout every phase of development.",
+		"callUrl": "",
+		"resumeUrl": "https://www.canva.com/design/DAFBzL926XE/JgI9v40ASa0qCVz866nIzA/view"
+	},
+	"socials": [
+		{
+			"icon": "FaLinkedin",
+			"link": "https://www.linkedin.com/in/amar-singh-tanwar-5483a8111/"
+		},
+		{
+			"icon": "FaGithub",
+			"link": "https://github.com/test-automation-frameworks"
+		},
+		{
+			"icon": "FaMedium",
+			"link": "https://medium.com/@amartanwar93"
+		}
+	],
+	"skills": [
+		{
+			"name": "Cypress",
+			"image": "https://www.cypress.io/_astro/navbar-brand.D87396b0.svg",
+			"category": "Web"
+		},
+		{
+			"name": "WebdriverIO",
+			"image": "https://avatars.githubusercontent.com/u/6512473?s=200&v=4",
+			"category": "Web"
+		},
+		{
+			"name": "Playwright",
+			"image": "https://playwright.dev/img/playwright-logo.svg",
+			"category": "Web"
+		},
+		{
+			"name": "Selenium",
+			"image": "https://img.icons8.com/?size=100&id=VOnRj9vGpXV8&format=png&color=000000",
+			"category": "Web"
+		},
+
+		{
+			"name": "JavaScript",
+			"image": "https://img.icons8.com/color/144/null/javascript--v1.png",
+			"category": "Web"
+		},
+		{
+			"name": "TypeScript",
+			"image": "https://img.icons8.com/color/144/000000/typescript.png",
+			"category": "Web"
+		},
+		{
+			"name": "Java",
+			"image": "https://img.icons8.com/?size=100&id=13679&format=png&color=000000",
+			"category": "Web"
+		},
+		{
+			"name": "Jest",
+			"image": "https://img.icons8.com/?size=100&id=3u82blvEilbF&format=png&color=000000",
+			"category": "Web"
+		},
+		{
+			"name": "Chai",
+			"image": "https://avatars.githubusercontent.com/u/1515293?s=200&v=4",
+			"category": "Web"
+		},
+		{
+			"name": "Mocha",
+			"image": "https://mochajs.org/images/mocha-logo.svg",
+			"category": "Web"
+		},
+		{
+			"name": "Appium",
+			"image": "https://avatars.githubusercontent.com/u/3221291?s=48&v=4",
+			"category": "Mobile"
+		},
+		{
+			"name": "Apptim Perf tool",
+			"image": "https://avatars.githubusercontent.com/u/19981816?s=200&v=4",
+			"category": "Mobile"
+		},
+		{
+			"name": "Charles proxy",
+			"image": "https://user-images.githubusercontent.com/15472/41327135-e4bf090c-6eca-11e8-9b76-032e8e2b0707.png",
+			"category": "Mobile"
+		},
+		{
+			"name": "Saucelabs",
+			"image": "https://avatars.githubusercontent.com/u/88837?s=200&v=4",
+			"category": "Mobile"
+		},
+		{
+			"name": "LambdaTest",
+			"image": "https://avatars.githubusercontent.com/u/27130435?s=200&v=4",
+			"category": "Mobile"
+		},
+		{
+			"name": "Rest API",
+			"image": "https://img.icons8.com/?size=100&id=MX92yo3ozHJD&format=png&color=000000",
+			"category": "Backend"
+		},
+		{
+			"name": "GRPC",
+			"image": "https://avatars.githubusercontent.com/u/7802525?s=48&v=4",
+			"category": "Backend"
+		},
+		{
+			"name": "Rest assured",
+			"image": "https://rest-assured.io/img/name-transparent.png",
+			"category": "Backend"
+		},
+		{
+			"name": "Postman",
+			"image": "https://voyager.postman.com/logo/postman-logo-icon-orange.svg",
+			"category": "Backend"
+		},
+		{
+			"name": "Frisby.js",
+			"image": "https://user-images.githubusercontent.com/5210420/193491809-ecfe1741-3931-4c32-8554-483294e91592.png",
+			"category": "Backend"
+		},
+		{
+			"name": "K6 Performance tool",
+			"image": "https://raw.githubusercontent.com/grafana/k6/master/assets/logo.svg",
+			"category": "Backend"
+		},
+		{
+			"name": "Gatling Performance tool",
+			"image": "https://gatling.io/hs-fs/hubfs/Gatling-logo-RVB.png?width=1708&height=296&name=Gatling-logo-RVB.png",
+			"category": "Backend"
+		},
+		{
+			"name": "Python",
+			"image": "https://img.icons8.com/?size=100&id=YX03OUiHE3rz&format=png&color=000000",
+			"category": "Backend"
+		},
+		{
+			"name": "Jenkins",
+			"image": "https://img.icons8.com/?size=100&id=39292&format=png&color=000000",
+			"category": "CI-CD"
+		},
+		{
+			"name": "Bitbucket",
+			"image": "https://img.icons8.com/?size=100&id=iZTo5EQZtLKm&format=png&color=000000",
+			"category": "CI-CD"
+		},
+		{
+			"name": "Github Actions",
+			"image": "https://img.icons8.com/?size=100&id=12599&format=png&color=000000",
+			"category": "CI-CD"
+		},
+		{
+			"name": "Docker",
+			"image": "https://img.icons8.com/?size=100&id=LdUzF8b5sz2R&format=png&color=000000",
+			"category": "CI-CD"
+		},
+		{
+			"name": "Kubernetes",
+			"image": "https://img.icons8.com/?size=100&id=cvzmaEA4kC0o&format=png&color=000000",
+			"category": "CI-CD"
+		}
+	],
+	"projects": [
+		{
+			"name": "K6 Performance Automation",
+			"techstack": "JavaScript, K6, Chai",
+			"category": "Performance",
+			"image": "https://raw.githubusercontent.com/grafana/k6/master/assets/logo.svg",
+			"links": {
+				"code": "https://github.com/test-automation-frameworks/performance-automation",
+				"video": "",
+				"visit": "https://github.com/test-automation-frameworks/performance-automation"
+			}
+		},
+		{
+			"name": "Gatling Performance Automation",
+			"techstack": "Scala, Gatling",
+			"category": "Performance",
+			"image": "https://gatling.io/hs-fs/hubfs/Gatling-logo-RVB.png?width=1708&height=296&name=Gatling-logo-RVB.png",
+			"links": {
+				"code": "https://github.com/amartanwar42/gatling_perf_project",
+				"video": "",
+				"visit": "https://github.com/amartanwar42/gatling_perf_project"
+			}
+		},
+		{
+			"name": "Rest assured API Automation",
+			"techstack": "Rest-assured, Java, Testng",
+			"category": "Backend",
+			"image": "https://rest-assured.io/img/name-transparent.png",
+			"links": {
+				"code": "https://github.com/amartanwar42/BackEndRestAssuredFramework",
+				"video": "",
+				"visit": "https://github.com/amartanwar42/BackEndRestAssuredFramework"
+			}
+		},
+		{
+			"name": "Appium Mobile Automation Framework",
+			"techstack": "Appium, Typescript, WebdriverIO, Mocha, Chai, Allure",
+			"category": "Mobile",
+			"image": "https://raw.githubusercontent.com/appium/appium/master/packages/appium/docs/overrides/assets/images/appium-logo-horiz.png",
+			"links": {
+				"code": "https://github.com/test-automation-frameworks/mobile-automation",
+				"video": "",
+				"visit": "https://github.com/test-automation-frameworks/mobile-automation"
+			}
+		},
+		{
+			"name": "WebdriverIO Web Automation Framework",
+			"techstack": "Typescript, WebdriverIO, Mocha, Chai, Allure",
+			"category": "Web",
+			"image": "https://raw.githubusercontent.com/test-automation-frameworks/web-automation/refs/heads/master/wdio.png",
+			"links": {
+				"code": "https://github.com/test-automation-frameworks/web-automation",
+				"video": "",
+				"visit": "https://github.com/test-automation-frameworks/web-automation"
+			}
+		}
+	],
+	"educations": [
+		{
+			"institute": "Priyamvada Birla Sr. Sec. School",
+			"degree": "Science",
+			"duration": "1998 - 2010"
+		},
+		{
+			"institute": "Rajiv Gandhi Proudyogiki Vishwavidyalaya",
+			"degree": "B.Tech EC",
+			"duration": "2010 - 2014"
+		}
+	],
+	"experiences": [
+		{
+			"company": "Odessa Technologies",
+			"position": "Sr. Quality Engineer",
+			"duration": "Dec 2015 - July 2018",
+			"desc": [
+				"Led end-to-end testing of user stories, covering smoke, regression, and integration testing.",
+				"Reviewed manual scenarios written by team members to ensure accuracy and completeness.",
+				"Developed and maintained a Hybrid Selenium framework for frontend automation.",
+				"Oversaw the maintenance and enhancement of the automation framework to meet evolving needs.",
+				"Provided guidance and assistance to other QA team members in writing test scripts.",
+				"Conducted reviews of test scripts authored by colleagues to uphold quality standards. "
+			]
+		},
+		{
+			"company": "Thoughworks | Gojek",
+			"position": "QA Consultant",
+			"duration": "Aug 2018 - March 2020",
+			"desc": [
+				"Led end-to-end testing efforts for user stories, encompassing smoke, regression, integration, and performance testing to ensure robust quality assurance.",
+				"Contributed to the development process by writing user stories, and facilitating clear communication and alignment within the team. ",
+				"Held responsibility for approving testing outcomes after each sprint, ensuring deliverables met quality standards. ",
+				"Developed and upheld an automation suite for Mobile applications utilizing Appium and for backend systems using Restassured, fostering efficiency and reliability.",
+				"Managed the automation test stage within Continuous Integration (Bitbucket) pipelines across various microservices, ensuring seamless integration and deployment.",
+				"Utilized the Report Portal automation reporting tool to monitor and track daily failures diligently, delivering insightful reports to stakeholders through automated Slack notifications, thereby enabling informed decision-making.",
+				"Automated performance testing with Gatling and seamlessly integrated it with the CI/CD pipeline"
+			]
+		},
+
+		{
+			"company": "Thoughworks | Gojek",
+			"position": "Lead SDET",
+			"duration": "April 2020 - Present",
+			"desc": [
+				"Directed end-to-end testing for both internal and external portals, ensuring stringent quality control. Managed comprehensive test cases with Xray, leveraging automation for enhanced efficiency. Approved sprint testing outcomes, guaranteeing deployable readiness.",
+				"Developed and maintained a web automation suite for web portals using Webdriver.io and backend systems using firsby.js, ensuring seamless integration and functionality. ",
+				"Created a selenium grid using Kubernetes to run the web tests in scale. Able to run 400+ test cases in less than 15 minutes.",
+				"Created a mobile automation framework using WebdriverIO and Appium to run iOS and Android automated tests and built a Bitrise pipeline to trigger the tests on PRs and nightly. ",
+				"Managed Web automation testing stages within Continuous Integration (Jenkins) pipelines across diverse repositories. ",
+				"Provided guidance and support to developers in automating test cases, fostering a culture of collaboration. ",
+				"Conducted thorough reviews of Pull Requests (PRs), ensuring code quality and adherence to testing standards. Additionally, authored scripts to analyze PR changes and execute relevant test cases, preempting potential failures. ",
+				"Implemented PR validation criteria, requiring multiple passing builds and at least one review before merging, to uphold quality assurance standards. ",
+				"Tracked automation coverage metrics, ensuring comprehensive testing across all relevant components. ",
+				"Proactively implemented new requirements into the automation framework, ensuring its relevance and effectiveness, while also maintaining its up-to-date status. ",
+				"Utilized the Report Portal automation reporting tool to diligently monitor and track daily failures, delivering insightful reports to stakeholders through automated Slack notifications, thereby enabling informed decision-making. ",
+				"Designed and implemented multiple scripts using python and rotating proxy to scrap pertinent data from the different platform, tailored specifically for the marketing teams' needs. ",
+				"Acted as a liaison between the testing and service teams, efficiently handling requests and resolving real-time user issues in collaboration with the service team. "
+			]
+		}
+	]
 }
