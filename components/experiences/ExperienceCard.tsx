@@ -85,7 +85,7 @@ const Experience = ({
 							onClick={toggleExpand}
 							className='text-violet-600 dark:text-violet-400 text-sm mt-2 underline'
 						>
-							{expanded ? 'Show Less' : 'Role and Responsibility'}
+							{expanded ? 'Show Less' : 'Roles and Responsibility'}
 						</button>
 					</>
 				)}
